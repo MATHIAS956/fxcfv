@@ -1,0 +1,9 @@
+<DOCTYPE html>
+<html>
+
+<h1> SUPER MARIO </h1>
+
+<li> jeg er sigma </li>
+<p> hello </p>
+
+<img src="10214970_1.jpeg" alt="supern">
